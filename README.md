@@ -32,7 +32,7 @@ Cursando Frances KNN idiomas.
 
 ## TI Segundo ano Ensino médio 2021 🪐💫⭐️💫🪐 
 
-## LOGICA COMPUTACIONAL
+## LOGICA COMPUTACIONAL🤹‍♂️🤹‍♂️🤹‍♂️
 
 [Aula dia 16/03 Controle de Peso](https://github.com/apenascaua/apenascaua/blob/main/Logica%20computacional/%5BAula%20dia%2016%20do%2003)
 
@@ -40,7 +40,7 @@ Cursando Frances KNN idiomas.
 
 [Aula dia 02/03 Atividade Pseudocódigo e Fluxograma](https://docs.google.com/presentation/d/1PngI56f0S-lZ41qW9fwH4lEvvCAe5gzHYwuViSPZ2Ks/edit?usp=sharing)
 
-## FUNDAMENTOS DE REDE DE COMPUTADORES
+## FUNDAMENTOS DE REDE DE COMPUTADORES🏌️ 🏌️ 🏌️ 
 
 [Aula 14/07 - (Avaliação)](https://github.com/apenascaua/apenascaua/blob/main/Provinha%20de%20redes..docx)
 
@@ -48,7 +48,7 @@ Cursando Frances KNN idiomas.
 
 [Aula 07/04 - Fundamentos de Redes Definições](https://docs.google.com/presentation/d/1li3fTvqi0rIUcTAG00dz8E085dQohMAmVg53v3eb8bU/edit?usp=sharing)
 
-## FUNDAMENTOS DE TI
+## FUNDAMENTOS DE TI🏇🏇🏇
 
 [Avaliação Shell Script e Git](https://docs.google.com/forms/d/e/1FAIpQLSczYf2uhqwUvorq6-p_VJoLYSlYWch2d9bgmRQN8WDKPRm4vQ/viewscore?viewscore=AE0zAgBsBM9pxnQXqMzmAGlNgRjecp8d4oVZPPf27rqcZsjZpVtVeUYTVsIuyrzluw)
 
@@ -56,7 +56,7 @@ Cursando Frances KNN idiomas.
 
 [Planilha com condições](https://docs.google.com/spreadsheets/d/1QQxCpSTEbK7NYa6-L1q2vmYuYEOD9CVsYDf4op-_j70/edit?usp=sharing)
 
-## FUNDAMENTOS DE BD
+## FUNDAMENTOS DE BD🤸‍♂️ 🤸‍♂️ 🤸‍♂️ 
 
 [Exercícios de relacionamentos](https://docs.google.com/document/d/1i6583lElPLm1GUYiwcTMgPsgsXr4ta1WwU9Z_6sdL40/edit?usp=sharing)
 
@@ -64,7 +64,7 @@ Cursando Frances KNN idiomas.
 
 [Atividade de fixação - 2FN](https://docs.google.com/document/d/1IwsRXehpiaf8hkwA_ThFHoeqdtxQn28F83Lna84cfPA/edit?usp=sharing)
 
-## FUNDAMENTOS DE DESIGN
+## FUNDAMENTOS DE DESIGN🤺 🤺 🤺 
 
 [Aula 15/09 - Expectativa Da Matéria Atividade](https://github.com/apenascaua/apenascaua/blob/main/Fundamentos%20de%20Design/O%20que%20voc%C3%AA%20acha%20ou%20espera%20vai%20aprender%20nesta%20mat%C3%A9ria%3F)
 
@@ -72,7 +72,7 @@ Cursando Frances KNN idiomas.
 
 [Aula 29/09 - Atividade sobre Paleta de Cores](https://docs.google.com/presentation/d/1XpfeujNR9Px2BjUu3pRJjXfG-lC-672h/edit?usp=sharing&ouid=106571170258202304542&rtpof=true&sd=true)
 
-## LOGICA DE PROGRAMAÇÃO
+## LOGICA DE PROGRAMAÇÃO🚣🚣🚣
 
 [Atividade Objetos com JFrame]()
 
