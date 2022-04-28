@@ -32,6 +32,6 @@ You can click the Preview link to take a look at your changes.
 
 [Atividade Calculadora Android Studio](https://github.com/apenascaua/apenascaua/blob/main/Programação%20de%20Aplicativos/GeometriaEspacial2.0.zip)
 
-[Atividade 
+[Atividade Camera Android Studio](https://github.com/apenascaua/apenascaua/blob/main/Programação%20de%20Aplicativos/camera.zip)
 
-[
+[Atividade Carlos Android Studio](
