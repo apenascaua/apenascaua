@@ -1,9 +1,13 @@
 ## TI Segundo ano Ensino médio 2021 🪐💫⭐️💫🪐 
 
 Cauã Cardozo Guimarães
+
 Idade: 17 anos
+
 Local: Gisela, 1693, Bela Gisela, São josé/Florianópolis
+
 Telefones: pessoal: 04898841-7658 / Casa: 32585844
+
 E-mail: cacauacardozo@gmail.com
 
 OBJETIVO
