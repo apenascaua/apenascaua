@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 [Trabalho Museo Codigos](https://github.com/apenascaua/apenascaua/blob/main/Banco%20de%20dados/Trabalho%20Museu%20Códigos)
 
-[Diagrama Sistema Escola](https://app.diagrams.net/?src=about#G1HFoomeR4tBY6Scrsc7Y6Dkykadxu5tQZ)
+[Diagrama Sistema Escola](https://drive.google.com/file/d/1HFoomeR4tBY6Scrsc7Y6Dkykadxu5tQZ/view?usp=sharing)
 
 ## MODELAGEM DE SISTEMA
 [Diagrama Jogos vorazes](https://app.diagrams.net/#G1eyAUBJ6B8WCX-1Fq3BJmYIGG6wdKI3We)
