@@ -26,4 +26,8 @@ You can click the Preview link to take a look at your changes.
 
 [Trabalho Sistema Agiotagem figma](https://www.figma.com/proto/OPSvyCtBvQAax7GFAglPk6/agiotagem?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
 
-[](
+[Atividades Replit](https://github.com/apenascaua/apenascaua/blob/main/Modelagem%20de%20Dados/EcstaticNoxiousProjector.zip)
+
+## PROGRAMAÇÃO DE APLICATIVOS
+
+[
