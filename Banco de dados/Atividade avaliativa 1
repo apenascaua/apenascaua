@@ -1,0 +1,104 @@
+Atividade Avaliativa Banco de Dados
+Professora: Maria Claudia Rosa Negri
+Nome: Cauã Cardozo Guimarães
+Data: 06/04/2022
+Turma: 3B
+Banco de dados:
+Sobres a tabela 'netlix_titles.csv':
+- Contém filmes e programas de TV da Netflix
+- Os dados são:
+	- ID
+	- TIPO
+	- TITULO
+	- DIRETOR
+	- ATORES
+	- PAIS
+	- DATA_ADICIONADO
+	- ANO_LANCAMENTO
+	- CLASSIFICACAO_INDICATIVA
+	- DURACAO
+	- GENERO
+	- DESCRICAO
+
+R:
+create table netflix(
+	id int primary key,	
+	tipo varchar,
+	titulo varchar,
+	diretor varchar
+	atores varchar,
+	pais varchar,
+	data_adicionado date,
+	ano_lancamento int,
+	classificacao_indicativa varchar,
+	duracao int,
+	genero varchar
+	descricao varchar,
+	);
+
+Sobres a tabela 'laptop_price.csv':
+- Os dados são:
+	- Empresa - String - Fabricante de laptop
+	- Produto -String -Marca e Modelo
+	- TypeName -String -Type (Notebook, Ultrabook, Gaming, etc.)
+	- polegadas - Numérico - Tamanho da tela
+	- ScreenResolution -String- Resolução de tela
+	- Cpu-String-Unidade Central de Processamento (CPU)
+	- Ram -String - RAM de laptop
+	- Memória -String- Disco Rígido / Memória SSD
+	- GPU -String- Unidades de Processamento Gráfico (GPU)
+	- OpSys -String- Sistema Operacional
+	- Peso - Corda - Peso do Laptop
+	- Preço_euros -Numérico- Preço (Euro)
+
+R:
+Create table laptop(
+	id varchar primary key,
+	Empresa varchar,
+	Typename varchar,
+	Polegadas decimal,
+	Screenresolution varchar,
+	Cpu varchar,
+	RAM varchar,
+	Memoria varchar,
+	GPU varchar,
+	OpSys varchar,
+	peso int,
+	preco_euros decimal
+);
+
+
+1) Importar a tabela 'netlix_titles.csv' utilizando o PostgreSQL (PgAdmin). A importação pode ser tanto utilizando o shell SQL quanto de forma gráfica. Caso escolha shell SQL: Enviar o código utilizado. Caso escolha a forma gráfica: Enviar um print da tela de importação
+R: \ copy netflix from 'C:\Users\caua_c_guimaraes\Downloads\netflix.csv' delimiter ';' csv header;
+2) Utilizando a linguagem Postgres, visualizar todos os FILMES contidos na tabela, mostrando apenas as colunas de TITULO, PAIS, CLASSIFICACAO_INDICATIVA, DURACAO e GENERO.
+R: select titulo, pais, classificacao_indicativa, duracao, genero from netflix where tipo ilike 'movie'
+
+3) Exportar a tabela da questão 2.
+R: \copy (select titulo, pais, classificacao_indicativa, duracao, genero from netflix) to ‘C:\Users\caua_c_guimaraes\Downloads\netflix.csv’
+
+
+4) Utilizando a linguagem Postgres, visualizar todas as entidades cadastradas que sejam do segundo semestre do ano de 2019, mostrando todas as colunas
+R: select * from netflix where data_adicionado ilike '%2019'
+
+5) Utilizando a linguagem Postgres, visualizar todas as entidades cadastradas em que o ator 'Adam Sandler' participe.
+R: select * from netflix where atores ilike '%adam sandler'
+
+6) Utilizando a linguagem Postgres, visualizar a descrição de todas as entidades do diretor 'Quentin Tarantino'
+R: select * from netflix where diretor ilike '%Quentin Tarantino'
+
+7) Utilizando a linguagem Postgres, visualizar a descrição de todas as entidades que contenham como genero o drama. 
+R: select * from netflix where genero ilike '%drama'
+
+8) Importar a tabela 'laptop_price.csv' utilizando o PostgreSQL (PgAdmin). A importação pode ser tanto utilizando o shell SQL quanto de forma gráfica. Caso escolha shell SQL: Enviar o código utilizado. Caso escolha a forma gráfica: Enviar um print da tela de importação.
+R: \ copy laptop from 'C:\Users\caua_c_guimaraes\Downloads\laptop_price.csv' delimiter ';' csv header;
+
+9) Utilizando a linguagem Postgres, visualizar a tabela 'laptop_price.csv' contendo o preço atual dos laptops e o preco sugerido, sendo ele, uma promoção de 10% para todos os computadores da Dell.
+R: select preco_euro (valor * 0.10) as valor_sugerido from laptop where preço_euro ilike '%preco_euro%'
+
+
+10) Exportar a tabela da questão 9.
+R: \copy (select preço_euros from laptop) to ‘C:\Users\caua_c_guimaraes\Downloads\laptop.csv’
+
+11) Utilizando a linguagem Postgres, fazer 2 visualizações da tabela 'laptop_price.csv' utilizando funções do Postgres vistas em sala.
+R: select * from laptop where Empresa ilike '%dell'
+select * from laptop where TypeName ilike '%gaming'
