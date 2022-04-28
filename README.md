@@ -11,15 +11,18 @@ Telefones: pessoal: 04898841-7658 / Casa: 32585844
 E-mail: cacauacardozo@gmail.com
 
 OBJETIVO
+
 Trabalhar para me tornar mais independente 
 FORMAÇÃO
 2021 – Segundo ano ensino médio
 Escola: Sesi Senai
 
 QUALIFICAÇÃO PROFISSIONAL
+
 Fluente na língua inglesa KNN idiomas.
 
 CURSOS PROFISSIONALIZANTES
+
 Curso técnico de desenvolvimento de sistemas
 Curso de inglês KNN idiomas, com certificado de fluência 
 Cursando Frances KNN idiomas.
