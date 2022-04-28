@@ -1,10 +1,25 @@
 ## TI Segundo ano Ensino médio 2021 🪐💫⭐️💫🪐 
 
-Nome: Cauã Cardozo Guimarães
-Idade:16
-Objetivo: Ganhar dinheiro, criar uma maior responsabilidade e poder sustentar minha familia para conseguir me tornar independente.  
-Formação academica: Primeiro grau completo. 
-Experiencias profissionais: Por enquanto nenhuma, mas espero ter em um futuro proximo. 
+Cauã Cardozo Guimarães
+Idade: 17 anos
+Local: Gisela, 1693, Bela Gisela, São josé/Florianópolis
+Telefones: pessoal: 04898841-7658 / Casa: 32585844
+E-mail: cacauacardozo@gmail.com
+
+OBJETIVO
+Trabalhar para me tornar mais independente 
+FORMAÇÃO
+2021 – Segundo ano ensino médio
+Escola: Sesi Senai
+
+QUALIFICAÇÃO PROFISSIONAL
+Fluente na língua inglesa KNN idiomas.
+
+CURSOS PROFISSIONALIZANTES
+Curso técnico de desenvolvimento de sistemas
+Curso de inglês KNN idiomas, com certificado de fluência 
+Cursando Frances KNN idiomas.
+ 
 
 <!---
 apenascaua/apenascaua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
