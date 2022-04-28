@@ -34,9 +34,11 @@ Cursando Frances KNN idiomas.
 
 ## LOGICA COMPUTACIONAL
 
-[Aula dia 16/03](
+[Aula dia 16/03](https://github.com/apenascaua/apenascaua/blob/main/Logica%20computacional/%5BAula%20dia%2016%20do%2003)
 
 [Aula da 08/06](https://github.com/apenascaua/apenascaua/blob/main/Logica%20computacional/Aula%20da%2008%20do%2006)
+
+[
 
 
 
