@@ -34,17 +34,17 @@ Cursando Frances KNN idiomas.
 
 ## LOGICA COMPUTACIONAL
 
-[Aula dia 16/03](https://github.com/apenascaua/apenascaua/blob/main/Logica%20computacional/%5BAula%20dia%2016%20do%2003)
+[Aula dia 16/03 Controle de Peso](https://github.com/apenascaua/apenascaua/blob/main/Logica%20computacional/%5BAula%20dia%2016%20do%2003)
 
-[Aula da 08/06](https://github.com/apenascaua/apenascaua/blob/main/Logica%20computacional/Aula%20da%2008%20do%2006)
+[Aula da 08/06 Atividade Peça um nome, armazene em uma String](https://github.com/apenascaua/apenascaua/blob/main/Logica%20computacional/Aula%20da%2008%20do%2006)
 
-[Aula dia 02/03](https://docs.google.com/presentation/d/1PngI56f0S-lZ41qW9fwH4lEvvCAe5gzHYwuViSPZ2Ks/edit?usp=sharing)
+[Aula dia 02/03 Atividade Pseudocódigo e Fluxograma](https://docs.google.com/presentation/d/1PngI56f0S-lZ41qW9fwH4lEvvCAe5gzHYwuViSPZ2Ks/edit?usp=sharing)
 
 ## FUNDAMENTOS DE REDE DE COMPUTADORES
 
-[Aula 14/07 - Fundamentos de Redes (Avaliação)](https://github.com/apenascaua/apenascaua/blob/main/Provinha%20de%20redes..docx)
+[Aula 14/07 - (Avaliação)](https://github.com/apenascaua/apenascaua/blob/main/Provinha%20de%20redes..docx)
 
-[Aula 24/02 - Fundamentos de Redes](https://docs.google.com/presentation/d/1Q5ag7oRGWlmoO_XaAGkZGZA_DNDAmhWshqFoJKH1D3A/edit?usp=sharing)
+[Aula 24/02 - Fundamentos de Redes Conversões](https://docs.google.com/presentation/d/1Q5ag7oRGWlmoO_XaAGkZGZA_DNDAmhWshqFoJKH1D3A/edit?usp=sharing)
 
 [Aula 07/04 - Fundamentos de Redes Definições](https://docs.google.com/presentation/d/1li3fTvqi0rIUcTAG00dz8E085dQohMAmVg53v3eb8bU/edit?usp=sharing)
 
