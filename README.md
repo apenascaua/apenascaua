@@ -66,11 +66,17 @@ Cursando Frances KNN idiomas.
 
 ## FUNDAMENTOS DE DESIGN
 
-[Aula 15/09 - Expectativa Da Matéria Atividade](
+[Aula 15/09 - Expectativa Da Matéria Atividade](https://github.com/apenascaua/apenascaua/blob/main/Fundamentos%20de%20Design/O%20que%20voc%C3%AA%20acha%20ou%20espera%20vai%20aprender%20nesta%20mat%C3%A9ria%3F)
 
+[Aula 17/11 - Figma sobre Petshop](https://www.figma.com/proto/lLPGvIySgckEnU1JIm8rbR/Untitled?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2)
 
+[Aula 29/09 - Atividade sobre Paleta de Cores](https://docs.google.com/presentation/d/1XpfeujNR9Px2BjUu3pRJjXfG-lC-672h/edit?usp=sharing&ouid=106571170258202304542&rtpof=true&sd=true)
 
+## LOGICA DE PROGRAMAÇÃO
 
+[Atividade Objetos com JFrame]()
+
+[Atividade Cadastro PetShop]()
 
 ##  TI Terceiro ano do ensino médio 2022 🪐💫⭐️💫🪐 
 
