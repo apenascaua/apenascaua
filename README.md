@@ -30,7 +30,7 @@ Curso de inglês KNN idiomas, com certificado de fluência
 Cursando Frances KNN idiomas.
 
 
-## TI Segundo ano Ensino médio 2021 🪐💫⭐️💫🪐 
+## 🪐💫⭐️💫🪐 TI Segundo ano Ensino médio 2021 🪐💫⭐️💫🪐 
 
 ## LOGICA COMPUTACIONAL🤹‍♂️🤹‍♂️🤹‍♂️
 
@@ -78,7 +78,7 @@ Cursando Frances KNN idiomas.
 
 [Atividade Cadastro PetShop]()
 
-##  TI Terceiro ano do ensino médio 2022 🪐💫⭐️💫🪐 
+##  🪐💫⭐️💫🪐 TI Terceiro ano do ensino médio 2022 🪐💫⭐️💫🪐 
 
 ## BANCO DE DADOS🪂🪂🪂
 
