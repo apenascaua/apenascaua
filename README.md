@@ -15,6 +15,7 @@ OBJETIVO
 Trabalhar para me tornar mais independente 
 
 FORMAÇÃO
+
 2021 – Segundo ano ensino médio
 Escola: Sesi Senai
 
