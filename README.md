@@ -8,20 +8,20 @@ Telefones: pessoal: 04898841-7658 / Casa: 32585844
 
 E-mail: cacauacardozo@gmail.com
 
-OBJETIVO
+## OBJETIVO
 
 Trabalhar para me tornar mais independente 
 
-FORMAÇÃO
+## FORMAÇÃO
 
 2021 – Segundo ano ensino médio
 Escola: Sesi Senai
 
-QUALIFICAÇÃO PROFISSIONAL
+## QUALIFICAÇÃO PROFISSIONAL
 
 Fluente na língua inglesa KNN idiomas.
 
-CURSOS PROFISSIONALIZANTES
+## CURSOS PROFISSIONALIZANTES
 
 Curso técnico de desenvolvimento de sistemas
 
