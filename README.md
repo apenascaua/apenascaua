@@ -1,5 +1,3 @@
-## TI Segundo ano Ensino médio 2021 🪐💫⭐️💫🪐 
-
 Cauã Cardozo Guimarães
 
 Idade: 17 anos
@@ -30,12 +28,11 @@ Curso técnico de desenvolvimento de sistemas
 Curso de inglês KNN idiomas, com certificado de fluência 
 
 Cursando Frances KNN idiomas.
- 
 
-<!---
-apenascaua/apenascaua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## TI Segundo ano Ensino médio 2021 🪐💫⭐️💫🪐 
+
+
 
 ##  TI Terceiro ano do ensino médio 2022 🪐💫⭐️💫🪐 
 
