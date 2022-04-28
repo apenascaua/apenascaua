@@ -32,6 +32,10 @@ Cursando Frances KNN idiomas.
 
 ## TI Segundo ano Ensino médio 2021 🪐💫⭐️💫🪐 
 
+## LOGICA COMPUTACIONAL
+
+[Aula da 08/06](
+
 
 
 ##  TI Terceiro ano do ensino médio 2022 🪐💫⭐️💫🪐 
