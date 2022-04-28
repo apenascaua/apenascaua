@@ -46,7 +46,7 @@ Cursando Frances KNN idiomas.
 
 [Aula 24/02 - Fundamentos de Redes](https://docs.google.com/presentation/d/1Q5ag7oRGWlmoO_XaAGkZGZA_DNDAmhWshqFoJKH1D3A/edit?usp=sharing)
 
-[Aula 07/04 - Fundamentos de Redes](
+[Aula 07/04 - Fundamentos de Redes Definições](https://docs.google.com/presentation/d/1li3fTvqi0rIUcTAG00dz8E085dQohMAmVg53v3eb8bU/edit?usp=sharing)
 
 
 
