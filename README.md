@@ -1,4 +1,4 @@
-## Segundo ano Ensino médio 2021 🪐⭐️ 💫 ⭐️🪐 
+## Segundo ano Ensino médio 2021 🪐💫⭐️💫🪐 
 
 Nome: Cauã Cardozo Guimarães
 Idade:16
@@ -11,7 +11,7 @@ apenascaua/apenascaua is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-## Terceiro ano do ensino médio 2022 🪐⭐️ 💫 ⭐️🪐 
+## Terceiro ano do ensino médio 2022 🪐💫⭐️💫🪐 
 
 ## BANCO DE DADOS🏌️‍♂️🏌️‍♂️
 
