@@ -52,6 +52,22 @@ Cursando Frances KNN idiomas.
 
 [Avaliação Shell Script e Git](https://docs.google.com/forms/d/e/1FAIpQLSczYf2uhqwUvorq6-p_VJoLYSlYWch2d9bgmRQN8WDKPRm4vQ/viewscore?viewscore=AE0zAgBsBM9pxnQXqMzmAGlNgRjecp8d4oVZPPf27rqcZsjZpVtVeUYTVsIuyrzluw)
 
+[Atividade de introdução ao Excel](https://docs.google.com/spreadsheets/d/1VecV0kK6HGgH1lbitaQ5Dbm8s7MXtt7MQ8tO2I2PTT4/edit?usp=sharing)
+
+[Planilha com condições](https://docs.google.com/spreadsheets/d/1QQxCpSTEbK7NYa6-L1q2vmYuYEOD9CVsYDf4op-_j70/edit?usp=sharing)
+
+## FUNDAMENTOS DE BD
+
+[Exercícios de relacionamentos](https://docs.google.com/document/d/1i6583lElPLm1GUYiwcTMgPsgsXr4ta1WwU9Z_6sdL40/edit?usp=sharing)
+
+[Atividade primeira forma normal](https://docs.google.com/document/d/13vULyO0ZeGcKTCZ9rZT9pLwLwZ9OVpmbo6xwSTmKrgA/edit?usp=sharing)
+
+[Atividade de fixação - 2FN](https://docs.google.com/document/d/1IwsRXehpiaf8hkwA_ThFHoeqdtxQn28F83Lna84cfPA/edit?usp=sharing)
+
+## FUNDAMENTOS DE DESIGN
+
+[Aula 15/09 - Expectativa Da Matéria Atividade](
+
 
 
 
