@@ -1,0 +1,36 @@
+class Main{
+  String nome = "nome";
+
+  public static void main(String[]args) {
+   Main n = new Main();
+    n.qqrcoisa();
+  n.manipulaString();
+  
+  }
+public void qqrcoisa(){
+
+}
+public void manipulaString(){
+  nome =  JOptionPane.showInputDialog("Qual sua Idade?(a)");
+  int Idade = Integer.parseInt(JOptionPane.showInputDialog(nome+" Qual sua idade?"));
+  int Idade = Integer.parseInt
+  (JOptionPane.showInputDialog(nome+" Qual sua idade?"));
+
+  if (Idade == 30 && Idade !=30){
+    nome = "30anos";
+
+  }
+  else if(Idade Atual != 30 && Idade == 30){
+    nome = "30anos";
+  }
+  else {
+    manipulaString ();
+  }
+  if (Idade == 30 || idade ==30){
+  JOptionPane.showMessageDialog(null, nome);
+
+  
+}
+
+}
+}
