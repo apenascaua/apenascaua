@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 ##  TI Terceiro ano do ensino médio 2022 🪐💫⭐️💫🪐 
 
-## BANCO DE DADOS🏌️‍♂️🏌️‍♂️🏌️‍♂️ 
+## BANCO DE DADOS🪂🪂🪂
 
 [Atividade Avaliativa](https://github.com/apenascaua/apenascaua/blob/main/Banco%20de%20dados/Atividade%20avaliativa%201)
 
