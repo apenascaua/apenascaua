@@ -42,11 +42,15 @@ Cursando Frances KNN idiomas.
 
 ## FUNDAMENTOS DE REDE DE COMPUTADORES
 
-[Aula 14/07 - Fundamentos de Redes (Avaliação)]
+[Aula 14/07 - Fundamentos de Redes (Avaliação)](https://github.com/apenascaua/apenascaua/blob/main/Provinha%20de%20redes..docx)
 
 [Aula 24/02 - Fundamentos de Redes](https://docs.google.com/presentation/d/1Q5ag7oRGWlmoO_XaAGkZGZA_DNDAmhWshqFoJKH1D3A/edit?usp=sharing)
 
 [Aula 07/04 - Fundamentos de Redes Definições](https://docs.google.com/presentation/d/1li3fTvqi0rIUcTAG00dz8E085dQohMAmVg53v3eb8bU/edit?usp=sharing)
+
+## FUNDAMENTOS DE TI
+
+[Avaliação Shell Script e Git](https://docs.google.com/forms/d/e/1FAIpQLSczYf2uhqwUvorq6-p_VJoLYSlYWch2d9bgmRQN8WDKPRm4vQ/viewscore?viewscore=AE0zAgBsBM9pxnQXqMzmAGlNgRjecp8d4oVZPPf27rqcZsjZpVtVeUYTVsIuyrzluw)
 
 
 
