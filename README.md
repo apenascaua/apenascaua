@@ -30,4 +30,8 @@ You can click the Preview link to take a look at your changes.
 
 ## PROGRAMAÇÃO DE APLICATIVOS
 
+[Atividade Calculadora Android Studio](https://github.com/apenascaua/apenascaua/blob/main/Programação%20de%20Aplicativos/GeometriaEspacial2.0.zip)
+
+[
+
 [
