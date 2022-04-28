@@ -38,7 +38,7 @@ Cursando Frances KNN idiomas.
 
 [Aula da 08/06](https://github.com/apenascaua/apenascaua/blob/main/Logica%20computacional/Aula%20da%2008%20do%2006)
 
-[Aula dia 02/03](https://github.com/apenascaua/apenascaua/new/main/Logica%20computacional)
+[Aula dia 02/03](https://docs.google.com/presentation/d/1PngI56f0S-lZ41qW9fwH4lEvvCAe5gzHYwuViSPZ2Ks/edit?usp=sharing)
 
 
 
