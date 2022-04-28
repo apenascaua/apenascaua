@@ -26,7 +26,9 @@ Fluente na língua inglesa KNN idiomas.
 CURSOS PROFISSIONALIZANTES
 
 Curso técnico de desenvolvimento de sistemas
+
 Curso de inglês KNN idiomas, com certificado de fluência 
+
 Cursando Frances KNN idiomas.
  
 
