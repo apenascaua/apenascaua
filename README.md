@@ -40,6 +40,14 @@ Cursando Frances KNN idiomas.
 
 [Aula dia 02/03](https://docs.google.com/presentation/d/1PngI56f0S-lZ41qW9fwH4lEvvCAe5gzHYwuViSPZ2Ks/edit?usp=sharing)
 
+## FUNDAMENTOS DE REDE DE COMPUTADORES
+
+[Aula 14/07 - Fundamentos de Redes (Avaliação)]
+
+[Aula 24/02 - Fundamentos de Redes](https://docs.google.com/presentation/d/1Q5ag7oRGWlmoO_XaAGkZGZA_DNDAmhWshqFoJKH1D3A/edit?usp=sharing)
+
+[Aula 07/04 - Fundamentos de Redes](
+
 
 
 
