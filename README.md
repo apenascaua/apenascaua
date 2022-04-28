@@ -25,3 +25,5 @@ You can click the Preview link to take a look at your changes.
 [Diagrama Jogos vorazes](https://app.diagrams.net/#G1eyAUBJ6B8WCX-1Fq3BJmYIGG6wdKI3We)
 
 [Trabalho Sistema Agiotagem figma](https://www.figma.com/proto/OPSvyCtBvQAax7GFAglPk6/agiotagem?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
+
+[
