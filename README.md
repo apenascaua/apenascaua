@@ -74,9 +74,9 @@ Cursando Frances KNN idiomas.
 
 ## LOGICA DE PROGRAMAÇÃO🚣🚣🚣
 
-[Atividade Objetos com JFrame]()
+[Atividade Objetos com JFrame](https://drive.google.com/drive/folders/1A-9tc6Fyn9HA1zvVbpwXjEEaAv2eJbzQ?usp=sharing)
 
-[Atividade Cadastro PetShop]()
+[Atividade Cadastro PetShop](https://drive.google.com/drive/folders/1FHFgz-fX5iNdlN4h7wPPV4BrRS_4KWfg?usp=sharing)
 
 
 ##  🪐💫⭐️💫🪐 TI Terceiro ano do ensino médio 2022 🪐💫⭐️💫🪐 
