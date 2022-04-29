@@ -104,6 +104,6 @@ Cursando Frances KNN idiomas.
 
 [Atividade Calculadora Android Studio](https://github.com/apenascaua/apenascaua/blob/main/Programação%20de%20Aplicativos/GeometriaEspacial2.0.zip) - Atividade escolhida, por conta de ser uma atividade que aprimorou minha habilidades no Android Studio e este aplicativo de calculadora me ajudou a compreender melhor geometria espacial.
 
-[Atividade Camera Android Studio](https://github.com/apenascaua/apenascaua/blob/main/Programação%20de%20Aplicativos/camera.zip) - Atividade escolhida, por conta de ser uma atividade que fizemos em sala e ajudou a aprimorar meu trabalho e equipe e o dominio no Android Studio
+[Atividade Camera Android Studio](https://github.com/apenascaua/apenascaua/blob/main/Programação%20de%20Aplicativos/camera.zip) - Atividade escolhida, por conta de ser uma atividade que fizemos em sala e ajudou a aprimorar meu trabalho e equipe e o dominio no Android Studio.
 
-[Atividade Carlos Android Studio](https://github.com/apenascaua/apenascaua/blob/main/Programação%20de%20Aplicativos/Carlos.zip) - Atividade escolhida, por ser nosso primeiro contato com o Android Studio, onde pude entender, para o que ele servia e como funcionava
+[Atividade Carlos Android Studio](https://github.com/apenascaua/apenascaua/blob/main/Programação%20de%20Aplicativos/Carlos.zip) - Atividade escolhida, por ser nosso primeiro contato com o Android Studio, onde pude entender, para o que ele servia e como funcionava.
