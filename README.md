@@ -101,6 +101,8 @@ Cursando Frances KNN idiomas.
 
 ## PROGRAMAÇÃO DE APLICATIVOS 🏄🏄🏄‍♂️
 
+<a href="https://github.com/apenascaua/apenascaua/blob/main/Programação%20de%20Aplicativos/GeometriaEspacial2.0.zip">Calc</a>
+
 [Atividade Calculadora Android Studio](https://github.com/apenascaua/apenascaua/blob/main/Programação%20de%20Aplicativos/GeometriaEspacial2.0.zip)
 
 [Atividade Camera Android Studio](https://github.com/apenascaua/apenascaua/blob/main/Programação%20de%20Aplicativos/camera.zip)
