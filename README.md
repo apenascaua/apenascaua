@@ -15,7 +15,12 @@ Trabalhar para me tornar mais independente
 ## FORMAÇÃO
 
 2021 – Segundo ano ensino médio
-Escola: Sesi Senai
+
+Escola: Pingo no I ensino fundamental 1 completo
+
+Escola: Energia de Barreiros ensino fundamental 2 completo
+
+Escola: Sesi Senai cursando ensino medio
 
 ## QUALIFICAÇÃO PROFISSIONAL
 
