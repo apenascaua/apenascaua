@@ -86,24 +86,24 @@ Cursando Frances KNN idiomas.
 
 ## BANCO DE DADOS🪂🪂🪂
 
-[Atividade Avaliativa](https://github.com/apenascaua/apenascaua/blob/main/Banco%20de%20dados/Atividade%20avaliativa%201)Atividade escolhida, por conta de ser nossa primeira avaliação antes da prova trimestral 1, onde serviu muito bem como uma revisão.
+[Atividade Avaliativa](https://github.com/apenascaua/apenascaua/blob/main/Banco%20de%20dados/Atividade%20avaliativa%201) - Atividade escolhida, por conta de ser nossa primeira avaliação antes da prova trimestral 1, onde serviu muito bem como uma revisão.
 
-[Trabalho Museo Codigos](https://drive.google.com/file/d/1eyAUBJ6B8WCX-1Fq3BJmYIGG6wdKI3We/view?usp=sharing)Atividade escolhida, por conta de ter sido feita em grupo, ondem além da compreensão do conteudo tivemos trabalho em equipe.
+[Trabalho Museo Codigos](https://drive.google.com/file/d/1eyAUBJ6B8WCX-1Fq3BJmYIGG6wdKI3We/view?usp=sharing) - Atividade escolhida, por conta de ter sido feita em grupo, ondem além da compreensão do conteudo tivemos trabalho em equipe.
 
-[Diagrama Sistema Escola](https://drive.google.com/file/d/1HFoomeR4tBY6Scrsc7Y6Dkykadxu5tQZ/view?usp=sharing)Atividade escolhida, por conta de ter sido nosso primeiro diagrama feito no ano.
+[Diagrama Sistema Escola](https://drive.google.com/file/d/1HFoomeR4tBY6Scrsc7Y6Dkykadxu5tQZ/view?usp=sharing) - Atividade escolhida, por conta de ter sido nosso primeiro diagrama feito no ano.
 
 ## MODELAGEM DE SISTEMA 🏂🏂🏂
-[Diagrama Modelagem de Sistemas (Avaliação)](https://drive.google.com/file/d/1yr7x7NGxfIF6mAYU3vTW5a6Vtf3-ZpDs/view?usp=sharing)Atividade escolhida, por conta de ter sido nossa primeira avaliação antes da prova trimestral 1, onde serviu muito bem como uma revisão. 
+[Diagrama Modelagem de Sistemas (Avaliação)](https://drive.google.com/file/d/1yr7x7NGxfIF6mAYU3vTW5a6Vtf3-ZpDs/view?usp=sharing) - Atividade escolhida, por conta de ter sido nossa primeira avaliação antes da prova trimestral 1, onde serviu muito bem como uma revisão. 
 
-[Trabalho Sistema Agiotagem figma](https://www.figma.com/proto/OPSvyCtBvQAax7GFAglPk6/agiotagem?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)Figma feito em grupo sobre sistema de agiotagem, onde além de aprimorar minhas habilidades no figma aprimorei meu trabalho em grupo.
+[Trabalho Sistema Agiotagem figma](https://www.figma.com/proto/OPSvyCtBvQAax7GFAglPk6/agiotagem?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2) - Figma feito em grupo sobre sistema de agiotagem, onde além de aprimorar minhas habilidades no figma aprimorei meu trabalho em grupo.
 
-[Atividades Replit Presidiario](https://github.com/apenascaua/apenascaua/blob/main/Modelagem%20de%20Dados/Presidiario.zip)Atividade escolhida, por ser nosso primeiro contato com replit do ano, onde pude compreender como funcionava e para o que ele servia.
+[Atividades Replit Presidiario](https://github.com/apenascaua/apenascaua/blob/main/Modelagem%20de%20Dados/Presidiario.zip) - Atividade escolhida, por ser nosso primeiro contato com replit do ano, onde pude compreender como funcionava e para o que ele servia.
 
 ## PROGRAMAÇÃO DE APLICATIVOS 🏄🏄🏄‍♂️
 
 
-[Atividade Calculadora Android Studio](https://github.com/apenascaua/apenascaua/blob/main/Programação%20de%20Aplicativos/GeometriaEspacial2.0.zip)Atividade escolhida, por conta de ser uma atividade que aprimorou minha habilidades no Android Studio e este aplicativo de calculadora me ajudou a compreender melhor geometria espacial.
+[Atividade Calculadora Android Studio](https://github.com/apenascaua/apenascaua/blob/main/Programação%20de%20Aplicativos/GeometriaEspacial2.0.zip) - Atividade escolhida, por conta de ser uma atividade que aprimorou minha habilidades no Android Studio e este aplicativo de calculadora me ajudou a compreender melhor geometria espacial.
 
-[Atividade Camera Android Studio](https://github.com/apenascaua/apenascaua/blob/main/Programação%20de%20Aplicativos/camera.zip)Atividade escolhida, por conta de ser uma atividade que fizemos em sala e ajudou a aprimorar meu trabalho e equipe e o dominio no Android Studio
+[Atividade Camera Android Studio](https://github.com/apenascaua/apenascaua/blob/main/Programação%20de%20Aplicativos/camera.zip) - Atividade escolhida, por conta de ser uma atividade que fizemos em sala e ajudou a aprimorar meu trabalho e equipe e o dominio no Android Studio
 
-[Atividade Carlos Android Studio](https://github.com/apenascaua/apenascaua/blob/main/Programação%20de%20Aplicativos/Carlos.zip)Atividade escolhida, por ser nosso primeiro contato com o Android Studio, onde pude entender, para o que ele servia e como funcionava
+[Atividade Carlos Android Studio](https://github.com/apenascaua/apenascaua/blob/main/Programação%20de%20Aplicativos/Carlos.zip) - Atividade escolhida, por ser nosso primeiro contato com o Android Studio, onde pude entender, para o que ele servia e como funcionava
