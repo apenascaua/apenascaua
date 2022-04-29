@@ -115,4 +115,4 @@ Cursando Frances KNN idiomas.
 >Atividade escolhida, por conta de ser uma atividade que fizemos em sala e ajudou a aprimorar meu trabalho e equipe e o dominio no Android Studio.
 
 [Atividade Carlos Android Studio](https://github.com/apenascaua/apenascaua/blob/main/Programação%20de%20Aplicativos/Carlos.zip) 
->-Atividade escolhida, por ser nosso primeiro contato com o Android Studio, onde pude entender, para o que ele servia e como funcionava.
+>Atividade escolhida, por ser nosso primeiro contato com o Android Studio, onde pude entender, para o que ele servia e como funcionava.
