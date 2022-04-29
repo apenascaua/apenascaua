@@ -87,13 +87,13 @@ Cursando Frances KNN idiomas.
 ## BANCO DE DADOS🪂🪂🪂
 
 [Atividade Avaliativa](https://github.com/apenascaua/apenascaua/blob/main/Banco%20de%20dados/Atividade%20avaliativa%201) - 
-Atividade escolhida, por conta de ser nossa primeira avaliação antes da prova trimestral 1, onde serviu muito bem como uma revisão.
+>Atividade escolhida, por conta de ser nossa primeira avaliação antes da prova trimestral 1, onde serviu muito bem como uma revisão.
 
 [Trabalho Museo Codigos](https://drive.google.com/file/d/1eyAUBJ6B8WCX-1Fq3BJmYIGG6wdKI3We/view?usp=sharing) - 
-Atividade escolhida, por conta de ter sido feita em grupo, ondem além da compreensão do conteudo tivemos trabalho em equipe.
+>Atividade escolhida, por conta de ter sido feita em grupo, ondem além da compreensão do conteudo tivemos trabalho em equipe.
 
 [Diagrama Sistema Escola](https://drive.google.com/file/d/1HFoomeR4tBY6Scrsc7Y6Dkykadxu5tQZ/view?usp=sharing) - 
-Atividade escolhida, por conta de ter sido nosso primeiro diagrama feito no ano.
+>Atividade escolhida, por conta de ter sido nosso primeiro diagrama feito no ano.
 
 ## MODELAGEM DE SISTEMA 🏂🏂🏂
 [Diagrama Modelagem de Sistemas (Avaliação)](https://drive.google.com/file/d/1yr7x7NGxfIF6mAYU3vTW5a6Vtf3-ZpDs/view?usp=sharing) - 
