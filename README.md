@@ -2,9 +2,7 @@
 
 Idade: 17 anos
 
-Local: Gisela, 1693, Bela Gisela, São josé/Florianópolis
-
-Telefones: pessoal: 04898841-7658 / Casa: 32585844
+Local: São josé/Florianópolis
 
 E-mail: cacauacardozo@gmail.com
 
@@ -14,15 +12,27 @@ Trabalhar para me tornar mais independente
 
 ## FORMAÇÃO
 
-Escola: Pingo no I ensino fundamental 1 completo
+Escola: Pingo no I(2011-2016) ensino fundamental 1 completo
 
-Escola: Energia de Barreiros ensino fundamental 2 completo
+Escola: Energia de Barreiros(2016-2019) ensino fundamental 2 completo
 
-Escola: Sesi Senai cursando ensino medio
+Escola: Sesi Senai(2020-2022) cursando ensino medio
 
 ## QUALIFICAÇÃO PROFISSIONAL
 
 Fluente na língua inglesa KNN idiomas.
+
+Base em Espanhol, estudada por três anos, do 6º ao 8º do Ensino Fundamental.
+
+Dominação ampla da Língua Portuguesa, tendo familiaridade com regras de escrita (como vírgula, crase e etc).
+
+Amplas habilidades em escrita e correção.
+
+Boa relação com produtos do Office, tendo grande dominio no PowerPoint e word, tendo um conhecimento base de Excel.
+
+Bom em liderar,sendo líder de turma por varios anos consecutivos na escola e capitão de time em jogos virtuais, conseguindo organizar grupos e trabalhos e, geralmente, ser a pessoa que divide os papéis e ajuda as outras pessoas.
+
+Comunicativo e fácil de socialização, auxiliando em apresentação de trabalhos e projetos e facilitando a convivência em equipe e sempre sendo proativo, em trabalhos em equipe, sempre sendo uma peça fundamental para o projeto.
 
 ## CURSOS PROFISSIONALIZANTES
 
