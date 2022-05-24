@@ -24,6 +24,8 @@ Trabalhar para me tornar mais independente
 
 --> Base em Espanhol, estudada por três anos, do 6º ao 8º do Ensino Fundamental.
 
+--> Base em Francês, estudando em curso profissionalizante KNN idiomas.
+
 --> Dominação ampla da Língua Portuguesa, tendo familiaridade com regras de escrita (como vírgula, crase e etc).
 
 --> Amplas habilidades em escrita e correção.
