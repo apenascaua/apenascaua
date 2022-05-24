@@ -12,11 +12,11 @@ Trabalhar para me tornar mais independente
 
 ## FORMAÇÃO
 
-Escola: Pingo no I(2011-2016) ensino fundamental 1 completo
+--> Escola: Pingo no I(2011-2016) ensino fundamental 1 completo
 
-Escola: Energia de Barreiros(2016-2019) ensino fundamental 2 completo
+--> Escola: Energia de Barreiros(2016-2019) ensino fundamental 2 completo
 
-Escola: Sesi Senai(2020-2022) cursando ensino medio
+--> Escola: Sesi Senai(2020-2022) cursando ensino medio
 
 ## QUALIFICAÇÃO PROFISSIONAL
 
