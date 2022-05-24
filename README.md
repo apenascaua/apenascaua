@@ -20,27 +20,27 @@ Escola: Sesi Senai(2020-2022) cursando ensino medio
 
 ## QUALIFICAÇÃO PROFISSIONAL
 
-Fluente na língua inglesa KNN idiomas.
+--> Fluente na língua inglesa KNN idiomas.
 
-Base em Espanhol, estudada por três anos, do 6º ao 8º do Ensino Fundamental.
+--> Base em Espanhol, estudada por três anos, do 6º ao 8º do Ensino Fundamental.
 
-Dominação ampla da Língua Portuguesa, tendo familiaridade com regras de escrita (como vírgula, crase e etc).
+--> Dominação ampla da Língua Portuguesa, tendo familiaridade com regras de escrita (como vírgula, crase e etc).
 
-Amplas habilidades em escrita e correção.
+--> Amplas habilidades em escrita e correção.
 
-Boa relação com produtos do Office, tendo grande dominio no PowerPoint e word, tendo um conhecimento base de Excel.
+--> Boa relação com produtos do Office, tendo grande dominio no PowerPoint e word, tendo um conhecimento base de Excel.
 
-Bom em liderar,sendo líder de turma por varios anos consecutivos na escola e capitão de time em jogos virtuais, conseguindo organizar grupos e trabalhos e, geralmente, ser a pessoa que divide os papéis e ajuda as outras pessoas.
+--> Bom em liderar,sendo líder de turma por varios anos consecutivos na escola e capitão de time em jogos virtuais, conseguindo organizar grupos e trabalhos e, geralmente, ser a pessoa que divide os papéis e ajuda as outras pessoas.
 
-Comunicativo e fácil de socialização, auxiliando em apresentação de trabalhos e projetos e facilitando a convivência em equipe e sempre sendo proativo, em trabalhos em equipe, sempre sendo uma peça fundamental para o projeto.
+--> Comunicativo e fácil de socialização, auxiliando em apresentação de trabalhos e projetos e facilitando a convivência em equipe e sempre sendo proativo, em trabalhos em equipe, sempre sendo uma peça fundamental para o projeto.
 
 ## CURSOS PROFISSIONALIZANTES
 
-Curso técnico de desenvolvimento de sistemas
+--> Curso técnico de desenvolvimento de sistemas
 
-Curso de inglês KNN idiomas, com certificado de fluência 
+--> Curso de inglês KNN idiomas, com certificado de fluência 
 
-Cursando Frances KNN idiomas.
+--> Cursando Frances KNN idiomas.
 
 
 ## 🪐💫⭐️💫🪐 TI Segundo ano Ensino médio 2021 🪐💫⭐️💫🪐 
