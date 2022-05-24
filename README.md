@@ -22,7 +22,7 @@ Trabalhar para me tornar mais independente e conseguir realizar meus sonhos.
 
 --> Fluente na língua inglesa KNN idiomas.
 
---> Base em Espanhol, estudada por três anos, do 6º ao 8º do Ensino Fundamental.
+--> Base em Espanhol, estudado por três anos, do 6º ao 8º do Ensino Fundamental.
 
 --> Base em Francês, estudando em curso profissionalizante KNN idiomas.
 
