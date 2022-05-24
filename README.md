@@ -8,7 +8,7 @@ E-mail: cacauacardozo@gmail.com
 
 ## OBJETIVO
 
-Trabalhar para me tornar mais independente 
+Trabalhar para me tornar mais independente e conseguir realizar meus sonhos.
 
 ## FORMAÇÃO
 
