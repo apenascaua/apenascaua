@@ -18,7 +18,7 @@ Trabalhar para me tornar mais independente e conseguir realizar meus sonhos.
 
 --> Escola: Sesi Senai (2020-2022) ensino medio completo
 
---> Escola: Unissenai (2023-2025) cursando tecnologo em analise e desenvolvimento de sistema 
+--> Escola: Unissenai (2023-2025) cursando ensino superior
 
 ## QUALIFICAÇÃO PROFISSIONAL
 
