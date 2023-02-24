@@ -1,6 +1,6 @@
 ## Cauã Cardozo Guimarães
 
-Idade: 17 anos
+Idade: 18 anos
 
 Local: São josé/Florianópolis
 
@@ -16,7 +16,9 @@ Trabalhar para me tornar mais independente e conseguir realizar meus sonhos.
 
 --> Escola: Energia de Barreiros (2016-2019) ensino fundamental 2 completo
 
---> Escola: Sesi Senai (2020-2022) cursando ensino medio
+--> Escola: Sesi Senai (2020-2022) ensino medio completo
+
+--> Escola: Unissenai (2023-2025) cursando tecnologo em analise e desenvolvimento de sistema 
 
 ## QUALIFICAÇÃO PROFISSIONAL
 
