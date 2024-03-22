@@ -1,50 +1,38 @@
 ## Cauã Cardozo Guimarães
 
-Idade: 18 anos
+- Idade: 19 anos
 
-Local: São josé/Florianópolis
+- Local: São josé/Florianópolis
 
-E-mail: cacauacardozo@gmail.com
+- E-mail: cacauacardozo@gmail.com
 
 ## OBJETIVO
 
-Trabalhar para me tornar mais independente e conseguir realizar meus sonhos.
+- Aspiro crescer em conjunto com a empresa, buscando desenvolver-me profissionalmente para conquistar maior independência. Priorizo, sobretudo, meu crescimento pessoal, tanto em termos de maturidade como na busca contínua pelo aprendizado. Empenhado em evoluir como indivíduo, contribuindo positivamente para meu desenvolvimento profissional e pessoal.
 
 ## FORMAÇÃO
 
---> Escola: Pingo no I (2011-2016) ensino fundamental 1 completo
-
---> Escola: Energia de Barreiros (2016-2019) ensino fundamental 2 completo
-
---> Escola: Sesi Senai (2020-2022) ensino medio completo
-
---> Escola: Unissenai (2023-2025) cursando ensino superior
+- Escola: Energia de Barreiros (2016-2019) ensino fundamental 2 completo. 
+- Escola: Sesi Senai (2020-2022) ensino médio completo. 
+- Cursando Graduação: Unisenai (2023-2025) Analise e desenvolvimento de sistemas. 
 
 ## QUALIFICAÇÃO PROFISSIONAL
 
---> Fluente na língua inglesa KNN idiomas.
+- Linguagens de programação: SQL, Java, JavaScript, Phyton, HTML e boa relação com produtos do Office
+- Nativo da língua portuguesa, fluência nas línguas inglês, francês e espanhol
+- Professor de francês e inglês KNN idiomas, possuindo também amplas habilidades em escrita e correção. 
+- Coordenador pedagógico, treinando equipes de professores e auxiliando os mesmos
+- Experiência comprovada em liderança, destacando-se como líder de turma ao longo de vários anos durante o período escolar e capitão de equipe em jogos virtuais. Demonstro habilidade efetiva na organização de grupos e execução de trabalhos colaborativos. Possuo uma abordagem proativa ao dividir responsabilidades e oferecer assistência a colegas, consolidando-me como um elemento facilitador e orientado para resultados. 
+- Dotado de habilidades comunicativas e facilidade de socialização, colaboro ativamente na apresentação de trabalhos e projetos, promovendo uma convivência harmoniosa em equipe. Demonstro proatividade constante nesses contextos, desempenhando um papel essencial como contribuinte para o sucesso dos projetos..
 
---> Base em Espanhol, estudado por três anos, do 6º ao 8º do Ensino Fundamental.
-
---> Base em Francês, estudando em curso profissionalizante KNN idiomas.
-
---> Dominação ampla da Língua Portuguesa, tendo familiaridade com regras de escrita (como vírgula, crase e etc).
-
---> Amplas habilidades em escrita e correção.
-
---> Boa relação com produtos do Office, tendo grande dominio no PowerPoint e word, tendo um conhecimento base de Excel.
-
---> Bom em liderar,sendo líder de turma por varios anos consecutivos na escola e capitão de time em jogos virtuais, conseguindo organizar grupos e trabalhos e, geralmente, ser a pessoa que divide os papéis e ajuda as outras pessoas.
-
---> Comunicativo e fácil de socialização, auxiliando em apresentação de trabalhos e projetos e facilitando a convivência em equipe e sempre sendo proativo, em trabalhos em equipe, sempre sendo uma peça fundamental para o projeto.
 
 ## CURSOS PROFISSIONALIZANTES
 
---> Curso técnico de desenvolvimento de sistemas
+- Curso técnico de desenvolvimento de sistemas 
+- Curso profissionalizante mundo do trabalho SENAI
+- Curso de inglês KNN idiomas, com certificado de fluência  
+- Curso Frances KNN idiomas, com certificado de fluência 
 
---> Curso de inglês KNN idiomas, com certificado de fluência 
-
---> Cursando Frances KNN idiomas.
 
 
 ## 🪐💫⭐️💫🪐 TI Segundo ano Ensino médio 2021 🪐💫⭐️💫🪐 
